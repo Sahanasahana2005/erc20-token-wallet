@@ -1,0 +1,25 @@
+# ERC-20 Token Wallet
+
+## Project Description
+This project is a simple ERC-20 token wallet
+developed using Solidity.
+
+## Features
+- Check token balance
+- Transfer tokens
+- Validate wallet address
+- Prevent transfer when balance is insufficient
+
+## Technology Used
+- Solidity
+- Ethereum Blockchain
+- GitHub
+
+## Main Functions
+- balanceOf()
+- transfer()
+
+## Token Details
+Token Name: MyToken
+Token Symbol: MTK
+Initial Supply: 1000 MTK
